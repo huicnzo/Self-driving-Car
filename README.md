@@ -13,4 +13,7 @@ The model will learn the steering wheel angle from the dataset as per the turns 
 image and then predict the steering wheel angle. The predictions of the model will
 be tested in a simulation.
 
+
+
 Dataset --- >  https://github.com/SullyChen/driving-datasets
+# Project Report-->https://github.com/huicnzo/Self-driving-Car/blob/main/LATEX_B_Tech_Minor_Project_Report_Format_6.pdf
