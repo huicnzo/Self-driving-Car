@@ -1,4 +1,16 @@
-A lot of companies are working on self-driving cars and trucks.As traffic accidents are on the rise, automated driving systems have the potential to transform our transportation system into one that is safer and more secure for everyone. Various kinds of data are fed to the system of self-driving cars like Image Data (cameras [front side, rear side]), LIDAR [3-D geometry], RADAR, GPS, Ultrasonic sensors, etc. Outputs predicted are Steering wheel angle, acceleration,  braking. In this project, a part of the Self-Driving Cars  System is implemented using Convolutional Neural Networks . Images  from the dashcam  wil be feeded Convolutional Neural Network and the label corresponding to those images will be the steering angle. Model will learn the steering angle from as per the turns in the image and will finally predict steering angle for unknown images.The predictions of the model will be tested in a simulation .
-
+These days, a great many Autonomous Vehicles (AVs), otherwise called selfdriving
+vehicles, are on streets. AVs are expected to establish 25% of vehicles
+worldwide in 2035. Steering angle prediction is basic in the control of Autonomous
+Vehicles (AVs) and has pulled in the consideration of researchers, makers, and insurance
+agencies in the car business. In this project Convolutional Neural Network
+model has been applied to predict the steering angle of AVs in different situations.
+Different sorts of data are fed to the system of Autonomous Vehicles like Image Data
+(cameras [front side, rear side]), LIDAR [3-D geometry], RADAR, GPS, Ultrasonic
+sensors, etc. Outputs predicted are Steering wheel angle, acceleration, braking. In
+this project, a section of the Self-Driving Cars System is implemented using Convolutional
+Neural Networks. Dataset of the dashcam is taken to train CNN Model.
+The model will learn the steering wheel angle from the dataset as per the turns in the
+image and then predict the steering wheel angle. The predictions of the model will
+be tested in a simulation.
 
 Dataset --- >  https://github.com/SullyChen/driving-datasets
